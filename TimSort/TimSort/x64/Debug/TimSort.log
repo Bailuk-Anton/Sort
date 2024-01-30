@@ -1,0 +1,7 @@
+﻿  TimSort.cpp
+C:\Users\bylookjr\Desktop\Git\TimSort\TimSort\TimSort.cpp(15,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\bylookjr\Desktop\Git\TimSort\TimSort\TimSort.cpp(22,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\bylookjr\Desktop\Git\TimSort\TimSort\TimSort.cpp(34,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\bylookjr\Desktop\Git\TimSort\TimSort\TimSort.cpp(50,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\bylookjr\Desktop\Git\TimSort\TimSort\TimSort.cpp(55,33): warning C4018: <: несоответствие типов со знаком и без знака
+  TimSort.vcxproj -> C:\Users\bylookjr\Desktop\Git\TimSort\x64\Debug\TimSort.exe
